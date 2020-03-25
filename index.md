@@ -17,7 +17,7 @@ Her teaching activity includes undergraduate, postgraduate, and PhD courses from
 
 * * *
 
-### Contact Information
+# Contact Information
 
 Mailing address: Bulevar kralja Aleksandra 73, 11000 Belgrade, Serbia
 
@@ -26,6 +26,7 @@ e-mail: nadica.miljkovic at etf dot rs
 Phone: +381 11 3218 348
 
 Twitter: [@NadicaSm](https://twitter.com/NadicaSm)
+GitHub: [NadicaSm](https://github.com/NadicaSm)
 
 Pictures of Nadica Miljković can be found [here](https://pbs.twimg.com/profile_images/908306675362402304/mgh70_oH_400x400.jpg) and [here](http://automatika.etf.rs/images/FILES_srb_eng/nastavnici/NadicaMiljkovic.jpg).
 
