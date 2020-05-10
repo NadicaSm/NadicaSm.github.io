@@ -29,7 +29,7 @@ Twitter: [@NadicaSm](https://twitter.com/NadicaSm)
 
 GitHub: [NadicaSm](https://github.com/NadicaSm)
 
-Pictures of Nadica Miljković can be found [here](https://pbs.twimg.com/profile_images/908306675362402304/mgh70_oH_400x400.jpg) and [here](http://automatika.etf.rs/images/FILES_srb_eng/nastavnici/NadicaMiljkovic.jpg).
+Picture of Nadica Miljković can be found [here](http://automatika.etf.rs/images/FILES_srb_eng/nastavnici/Nadica-Miljkovic.jpg).
 
 [Department Profile](http://automatika.etf.rs/en/department-personnel/98-english/content/faculty/615-phd-nadica-miljkovi%C4%87)
 
