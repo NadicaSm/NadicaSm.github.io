@@ -25,7 +25,7 @@ e-mail: nadica.miljkovic at etf dot bg dot ac dot rs
 
 Phone: +381 11 3218 348
 
-Twitter: [@NadicaSm](https://twitter.com/NadicaSm)
+X: [@NadicaSm](https://x.com/NadicaSm)
 
 GitHub: [NadicaSm](https://github.com/NadicaSm)
 
