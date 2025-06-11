@@ -4,24 +4,24 @@ layout: default
 
 # Short biography
 
-Nadica Miljković finished Bachelor, Master and PhD studies at the [School of Electrical Engineering, University of Belgrade](https://www.etf.bg.ac.rs/en) (ETF). Her main research focus is related to Biomedical Engineering. She published papers related to Biomedical Signal Processing and Electrophysiological Signal Acquisition.
+Nadica Miljković finished Bachelor, Master, and PhD studies at the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) (ETF). Her main research focus is related to Biomedical Engineering. She published papers related to Biomedical Signal Processing and Electrophysiological Signal Acquisition. From 2020/2021 school year, she teaches a course at the Department of Military Electronic Engineering at the Military Academy in Belgrade, University of Defense. From June 2022, she is engaged as a Visiting Researcher at the [Faculty of Electrical Engineering, University of Ljubljana](https://fe.uni-lj.si/).
 
 ## Research
 
-Her main scientific contribution is multi-array electrode application in both measurement and electrical stimulation, and application of novel assessment methods based on electrophysiological signals analysis. She started to work at ETF at 2008 as Research and Teaching Associate, and since 2020 she works as Associate Professor. Nadica Miljković published more than 60 papers including 15 papers in scientific journals with impact factor and two open electronic textbooks.
+Her main scientific contribution is multi-array electrode application in both measurement and electrical stimulation, and application of novel assessment methods based on electrophysiological signals analysis. She started to work at ETF at 2008 as Research and Teaching Associate, and in 2025 she was promoted to Full Professor. Nadica Miljković published more than 100 papers including 22 papers in scientific journals with impact factor, two open electronic textbooks, one open electronic workbook, and one chapter.
 
 ## Teaching
 
-Her teaching activity includes undergraduate, postgraduate, and PhD courses from the fields of Electrical Measurements (Arduino and Python programs), Software Tools (Arduino and Matlab), Biomedical Signal Processing (Matlab, Python, GNU Octave and R), and various fields of Biomedical Engineering.
+Her teaching activity includes undergraduate, postgraduate, and PhD courses from the fields of Electrical Measurements, Biomedical Signal Processing, and various fields of Biomedical Engineering (_e.g._, Clinical Engineering).
 
 
 * * *
 
 # Contact Information
 
-Mailing address: Bulevar kralja Aleksandra 73, 11000 Belgrade, Serbia
+Mailing address (at work - primary affiliation): Bulevar kralja Aleksandra 73, 11000 Belgrade, Serbia
 
-e-mail: nadica.miljkovic at etf dot rs
+e-mail: nadica.miljkovic at etf dot bg dot ac dot rs
 
 Phone: +381 11 3218 348
 
@@ -31,6 +31,6 @@ GitHub: [NadicaSm](https://github.com/NadicaSm)
 
 Picture of Nadica Miljković can be found [here](https://automatika.etf.bg.ac.rs/images/FILES_srb_eng/nastavnici/Nadica-Miljkovic.jpg).
 
-[Department Profile](https://bit.ly/3yRFlV4)
+[Faculty Profile](https://www.etf.bg.ac.rs/en/faculty/staff/nadica-miljkovic-4323)
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=rj4sA2AAAAAJ&hl=en&oi=ao)
