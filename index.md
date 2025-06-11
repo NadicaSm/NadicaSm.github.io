@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Short biography
+# Education and Research Interests
 
-Nadica Miljković finished Bachelor, Master, and PhD studies at the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) (ETF). Her main research focus is related to Biomedical Engineering. She published papers related to Biomedical Signal Processing and Electrophysiological Signal Acquisition. From 2020/2021 school year, she teaches a course at the Department of Military Electronic Engineering at the Military Academy in Belgrade, University of Defense. From June 2022, she is engaged as a Visiting Researcher at the [Faculty of Electrical Engineering, University of Ljubljana](https://fe.uni-lj.si/).
+Nadica Miljković finished Bachelor, Master, and PhD studies at the [University of Belgrade - School of Electrical Engineering](https://www.etf.bg.ac.rs/en) (ETF). Her main research focus is related to Biomedical Engineering. She published papers related to Biomedical Signal Processing and Electrophysiological Signal Acquisition. 
 
-## Research
+# Academic Career
 
-Her main scientific contribution is multi-array electrode application in both measurement and electrical stimulation, and application of novel assessment methods based on electrophysiological signals analysis. She started to work at ETF at 2008 as Research and Teaching Associate, and in 2025 she was promoted to Full Professor. Nadica Miljković published more than 100 papers including 22 papers in scientific journals with impact factor, two open electronic textbooks, one open electronic workbook, and one chapter.
+She started to work at ETF at 2008 as Research and Teaching Associate, and in 2025 she was promoted to Full Professor. Nadica Miljković published more than 100 papers including 22 papers in scientific journals with impact factor, two open electronic textbooks, one open electronic workbook, and one chapter. From 2020/2021 school year, she teaches a course at the Department of Military Electronic Engineering at the Military Academy in Belgrade, University of Defense. From June 2022, she is engaged as a Visiting Researcher at the [Faculty of Electrical Engineering, University of Ljubljana](https://fe.uni-lj.si/).
 
 ## Teaching
 
